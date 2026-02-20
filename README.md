@@ -124,12 +124,6 @@ Contributions are welcome! Please fork this repository and submit a Pull Request
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
-  <sub>Built with ❤️ by Bandita Das using React & TensorFlow.js</sub>
+  <sub>Built with ❤️ by S Bandita Das using React & TensorFlow.js</sub>
 </div>
